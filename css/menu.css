@@ -16,7 +16,7 @@
 
 body{
     font-family:var(--fuente-principal);
-
+    height: 2500px;
     
 }
 
@@ -53,6 +53,7 @@ body{
 .producto_imagen {
     width: 130px;
     height: 100px;
+    margin-top: 0px;
 }
 
 .producto h2 {
@@ -61,8 +62,10 @@ body{
 }
 
 h1 {
-    margin-top: 50px;
+    margin-top: 40px;
+    margin-bottom: 80px;
     text-align: center;
+        
 }
 
 .navegacion {
@@ -107,6 +110,17 @@ h1 {
     text-align: end;
 
 }
+
+.subtitulos {
+     background-color: rgba(235, 131, 131, 0.651);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+    box-shadow: 0px 0px 30px red;
+    width: 360px;
+    margin-left: 15px;    
+}
+
 
 
 
