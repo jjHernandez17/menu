@@ -16,6 +16,7 @@
 
 body{
     font-family:var(--fuente-principal);
+    height: 1050px;
 }
 
 .titulo {
@@ -75,7 +76,7 @@ body{
 .solicitar_mesero {
     border: solid black 1px;
     width: 290px;
-    height: 400px;
+    height: 350px;
     margin-left: 50px;
     padding-top: 50px;
     box-shadow: 0px 0px 30px gray;

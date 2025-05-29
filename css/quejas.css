@@ -16,6 +16,7 @@
 
 body{
     font-family:var(--fuente-principal);
+    height: 1300px;
 }
 
 .titulo {
@@ -76,11 +77,10 @@ body{
 .form_quejas_y_reclamos {
     border: solid black 1px;
     width: 350px;
-    height: 350px;
+    height: 390px;
     margin-left: 20px;
     text-align: center;
-    padding-top: 50px;
-
+    padding: 50px;
     box-shadow: 0px 0px 30px black ;
     
 }
@@ -98,5 +98,6 @@ body{
     margin-top: 15px;
     width: 90px;
     height: 20px;
+    margin-bottom: 50px;
 }
 
